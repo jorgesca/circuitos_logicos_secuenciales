@@ -21,8 +21,8 @@ Los objetivos de este proyecto son:
         7.4 Asignación de estados.
         7.5 Análisis y síntesis.
 
-2. Implementar y verificar (mediante simulación) un flip-flop D maestro-esclavo.
-3. Implementar y verificar (mediante simulación) una máquina de estado finito que implemente un controlador de semáforo de un cruce de calles.
+2. Implementar y simular en el simulador [*Digital* (https://github.com/hneemann/Digital)](https://github.com/hneemann/Digital), un flip-flop D maestro-esclavo.
+3. Implementar y simular en [*Digital*](https://github.com/hneemann/Digital) una máquina de estado finito que implemente un controlador de semáforo de un cruce de calles.
 
 ## Entregables
 
