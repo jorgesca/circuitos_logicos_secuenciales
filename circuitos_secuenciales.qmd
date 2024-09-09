@@ -26,7 +26,9 @@ Los objetivos de este proyecto son:
 
 ## Entregables
 
-Deberás producir un informe conteniendo los resultados de la investigación bibliográfica y los desarrollos realizados. A continuación indicamos la estructura del informe y el contenido de cada sección.
+Los entregables para este proyecto son las simulaciones desarrolladas y un informe. Los elementos estarán contenidos en un repositorio git publicado en [Github](https://github.com/) como repositorio público.
+
+El informe contendrá los resultados de la investigación bibliográfica y los desarrollos realizados. A continuación indicamos la estructura del informe y el contenido de cada sección.
 
 - *Título*. El título (ya dado) será *Circuitos lógicos secuenciales*
 - *Autor*. Esta sección debe contener tus datos personales
@@ -48,6 +50,8 @@ Deberás producir un informe conteniendo los resultados de la investigación bib
 
 ## Evaluación
 
+El repositorio git debe contener el informe y las simulaciones.
+
 La calificación del informe seguirá los criterios resumidos a continuación:
 
 - *En todo el informe*
@@ -65,10 +69,9 @@ La calificación del informe seguirá los criterios resumidos a continuación:
 - Conclusiones
     - Puede sintetizar los conceptos fundamentales abordados en el proyecto.
 
+Las simulaciones deben funcionar de manera correcta. El flip-flop D debe ser construido con compuertas y tener la topología maestro-esclavo, esta simulación representa 3 puntos. La máquina de estado de control de semáforos debe funcionar correctamente y estar de acuerdo al desarrollo presentado en el informe, representa los 7 puntos restantes.
 
-
-
-
+El informe representa el 70% de la calificación final y las simulaciones el 30% restante.
 
 ## Referencias
 
