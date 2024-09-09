@@ -1,0 +1,75 @@
+---
+title: "Proyecto 4: circuitos lógicos secuenciales"
+format: html
+---
+
+## Objetivos
+
+Los objetivos de este proyecto son:
+
+1. Investigar en la bibliografía lo siguiente:
+    1. Funcionamiento de cerrojo D.
+    2. Funcionamiento de flip-flop D maestro-esclavo.
+    3. Concepto de registro.
+    4. Concepto de circuito secuencial.
+    5. Concepto de circuito secuencial asincrónico.
+    6. Concepto de circuito secuencial sincrónico.
+    7. Máquinas de estado finito.
+        7.1 Concepto.
+        7.2 Estructura general y tipos.
+        7.3 Formas de representación.
+        7.4 Asignación de estados.
+        7.5 Análisis y síntesis.
+
+2. Implementar y verificar (mediante simulación) un flip-flop D maestro-esclavo.
+3. Implementar y verificar (mediante simulación) una máquina de estado finito que implemente un controlador de semáforo de un cruce de calles.
+
+## Entregables
+
+Deberás producir un informe conteniendo los resultados de la investigación bibliográfica y los desarrollos realizados. A continuación indicamos la estructura del informe y el contenido de cada sección.
+
+- *Título*. El título (ya dado) será *Circuitos lógicos secuenciales*
+- *Autor*. Esta sección debe contener tus datos personales
+- *Resumen*. (1 punto)
+    - Describir brevemente el contenido del informe.
+- *Introducción*. (2 puntos)
+    - Exponer los resultados de la investigación del objetivo 1.
+    - Plantear los objetivos de las tareas realizadas dentro de los objetivos 2 y 3.
+- *Materiales y Métodos.* (2,5 puntos)
+    - Presentar las técnicas y herramientas utilizadas para desarrollar los objetivos 2 y 3.
+    - Presentar el procedimiento seguido para conseguir los objetivos 2 y 3.
+- *Resultados y discusión.* (2,5 puntos)
+    - Presentar los resultados del desarrollo de los objetivos 2 y 3.
+    - Incluir diagramas, tablas, expresiones lógicas, etc. resultantes del trabajo realizado en los objetivos 2 y 3.
+- *Conclusiones* (1 punto)
+    - Explique lo aprendido durante la realización del proyecto.
+- *Referencias* (1 punto)
+    - Listar las referencias utilizadas usando formato APA (Sánchez, 2020).
+
+## Evaluación
+
+La calificación del informe seguirá los criterios resumidos a continuación:
+
+- *En todo el informe*
+    - Cita todo material bibliográfico utilizado para la elaboración del informe de acuerdos a la norma APA (Sánchez, 2020). Esto incluye tablas, figuras, etc. incluidas directamente o material consultado para la elaboración del informe. 
+- *Resúmen*
+    - Explica de forma clara de qué trata el informe.
+- *Introducción*
+    - Expone con claridad los temas y conceptos de la investigación bibliográfica.
+    - Minimiza el uso de citas textuales, optando en su lugar por la *paráfrasis*, es decir explicando mediante sus propias palabras lo leído o investigado.
+- *Materiales y Métodos*
+    - Explica lo que hace en los desarrollos y cómo lo hace.
+- *Resultados y Discusión*
+    - Da cuenta de los resultados de los desarrollos.
+    - Utiliza formas adecuadas para resumir y presentar la información.
+- Conclusiones
+    - Puede sintetizar los conceptos fundamentales abordados en el proyecto.
+
+
+
+
+
+
+## Referencias
+
+- Sánchez, C. (24 de enero de 2020). Referencias APA. Normas APA \(7ma edición\). <https://normas-apa.org/referencias/>
