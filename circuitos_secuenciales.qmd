@@ -21,7 +21,8 @@ Los objetivos de este proyecto son:
         7.4 Asignación de estados.
         7.5 Análisis y síntesis.
 
-2. Implementar y simular en el simulador [*Digital* (https://github.com/hneemann/Digital)](https://github.com/hneemann/Digital), un flip-flop D maestro-esclavo.
+2. Implementar y simular en el simulador [*Digital* (https://github.com/hneemann/Digital)](https://github.com/hneemann/Digital), un cerrojo D.
+2. Implementar y simular en el simulador [*Digital*](https://github.com/hneemann/Digital), un flip-flop D maestro-esclavo.
 3. Implementar y simular en [*Digital*](https://github.com/hneemann/Digital) una máquina de estado finito que implemente un controlador de semáforo de un cruce de calles.
 
 ## Entregables
@@ -55,8 +56,8 @@ El repositorio git debe contener el informe y las simulaciones.
 La calificación del informe seguirá los criterios resumidos a continuación:
 
 - *En todo el informe*
-    - Cita todo material bibliográfico utilizado para la elaboración del informe de acuerdos a la norma APA (Sánchez, 2020). Esto incluye tablas, figuras, etc. incluidas directamente o material consultado para la elaboración del informe. 
-- *Resúmen*
+    - Cita todo material bibliográfico utilizado para la elaboración del informe de acuerdo a la norma APA (Sánchez, 2020). Esto incluye tablas, figuras, etc. incluidas directamente o material consultado. 
+- *Resumen*
     - Explica de forma clara de qué trata el informe.
 - *Introducción*
     - Expone con claridad los temas y conceptos de la investigación bibliográfica.
@@ -69,7 +70,7 @@ La calificación del informe seguirá los criterios resumidos a continuación:
 - Conclusiones
     - Puede sintetizar los conceptos fundamentales abordados en el proyecto.
 
-Las simulaciones deben funcionar de manera correcta. El flip-flop D debe ser construido con compuertas y tener la topología maestro-esclavo, esta simulación representa 3 puntos. La máquina de estado de control de semáforos debe funcionar correctamente y estar de acuerdo al desarrollo presentado en el informe, representa los 7 puntos restantes.
+Las simulaciones deben funcionar de manera correcta. Tanto el cerrojo D como el flip-flop D deben ser construidos con compuertas. El flip-flop D debe tener la topología maestro-esclavo, estas simulaciones representan 4 puntos. La máquina de estado de control de semáforos debe funcionar correctamente y estar de acuerdo al desarrollo presentado en el informe, representa los 6 puntos restantes.
 
 El informe representa el 70% de la calificación final y las simulaciones el 30% restante.
 
