@@ -1,6 +1,6 @@
 ---
 title: "Proyecto 4: circuitos lógicos secuenciales"
-format: html
+format: pdf
 ---
 
 ## Objetivos
@@ -15,15 +15,17 @@ Los objetivos de este proyecto son:
     5. Concepto de circuito secuencial asincrónico.
     6. Concepto de circuito secuencial sincrónico.
     7. Máquinas de estado finito.
-        7.1 Concepto.
-        7.2 Estructura general y tipos.
-        7.3 Formas de representación.
-        7.4 Asignación de estados.
-        7.5 Análisis y síntesis.
+        1. Concepto.
+        2. Estructura general y tipos.
+        3. Formas de representación.
+        4. Asignación de estados.
+        5. Análisis y síntesis.
 
 2. Implementar y simular en el simulador [*Digital* (https://github.com/hneemann/Digital)](https://github.com/hneemann/Digital), un cerrojo D.
 2. Implementar y simular en el simulador [*Digital*](https://github.com/hneemann/Digital), un flip-flop D maestro-esclavo.
-3. Implementar y simular en [*Digital*](https://github.com/hneemann/Digital) una máquina de estado finito que implemente un controlador de semáforo de un cruce de calles.
+3. Implementar y simular en [*Digital*](https://github.com/hneemann/Digital) una máquina de estado finito que implemente un controlador de semáforo de un cruce de calles. [^1]
+
+[^1]: La especificación del controlador de semáforo se proporcionará en clase.
 
 ## Entregables
 
